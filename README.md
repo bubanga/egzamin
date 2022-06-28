@@ -79,9 +79,9 @@
  * f) int main(char*argv[],int argc); 
 
 [12] Przeciązony operator << służący do wypisywania na ekran obiektu klasy K może być zdefiniowany:
- * x <b>a) Jako zaprzyjaźniona funkcja składowa klasy B</b>
- * b) jako zaprzyjaźniona funkcja globalna
- * x <b>c) jako funkcja składowa klasy K</b>
+ * x <b>a) jako zaprzyjaźniona funkcja składowa klasy B</b>
+ * x <b>b) jako zaprzyjaźniona funkcja globalna</b>
+ * c) jako funkcja składowa klasy K
  * d) jako funkcja globalna 
 
 [13] Wskaż błędne identyfikatory w C++
